@@ -1,0 +1,14 @@
+{
+  "name": "Winter Arc — Workout Tracker",
+  "short_name": "Winter Arc",
+  "description": "Tap-to-log 8-week gym tracker. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1020",
+  "theme_color": "#17192d",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
